@@ -1,0 +1,29 @@
+[
+  {
+    "uuid": "82935eb2-2bad-3de9-98a4-d9aaa55f3cea",
+    "displayName": {
+      "insertion": "Chukuskuz",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Chukuskuz "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "82935eb2-2bad-3de9-98a4-d9aaa55f3cea",
+          "name": {
+            "text": "Chukuskuz"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Chukuskuz"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  }
+]
